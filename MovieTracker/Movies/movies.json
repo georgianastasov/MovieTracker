@@ -1,0 +1,1602 @@
+﻿[
+  {
+    "Id": 1,
+    "Title": "Dune: Part Two",
+    "Description": "The continuation of the saga of Paul Atreides as he leads a rebellion to control the planet of Arrakis​.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/jKE4GGhhSLf4HR2fpD9Ayo2UtAD.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Sci-Fi Action"
+  },
+  {
+    "Id": 2,
+    "Title": "The Promised Land",
+    "Description": "Mads Mikkelsen teams up again with director Nikolaj Arcel in this historical drama set in 18th century Denmark.",
+    "ImageUrl": "https://variety.com/wp-content/uploads/2023/08/Billede1.jpg?w=716",
+    "Categories": [ "New" ],
+    "Genres": "Drama History"
+  },
+  {
+    "Id": 3,
+    "Title": "Night of the Harvest",
+    "Description": "A horror film from Gravitas Ventures, known for its atmospheric tension and chilling storyline.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTI2ZWNhMzQtZTI5Yi00NGQxLWI1NGMtYTlhZDEyOTIxYzUwXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Horror Mystery"
+  },
+  {
+    "Id": 4,
+    "Title": "Paradox Effect",
+    "Description": "An action-packed movie that dives into thrilling sequences and high-stakes scenarios. It’s also available on VOD/Digital.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYWIyMzQyMDMtZmJmYi00MTAxLTllOGUtNmI4YWQzZDAxMzJiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 5,
+    "Title": "Lift",
+    "Description": "Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOWRkYmNiNDUtYTY0OC00YTZlLTlmMTYtMTJhMTU4OTBkMDY5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Adventure Action"
+  },
+  {
+    "Id": 6,
+    "Title": "Thanksgiving",
+    "Description": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts.",
+    "ImageUrl": "https://sportshub.cbsistatic.com/i/2023/10/03/e237b74f-ec5c-4b81-8a45-d37aafeb00f4/thanksgiving-2023-horror-movie-poster.jpg?auto=webp&width=1200&height=1500&crop=0.8:1,smart",
+    "Categories": [ "New" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 7,
+    "Title": "Atlas",
+    "Description": "In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYjBiNDFlOWEtYjViMC00ODg3LWJiOWYtOWQ5M2M5NWE0ODVjXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Sci-Fi Drama"
+  },
+  {
+    "Id": 8,
+    "Title": "Damsel",
+    "Description": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+    "ImageUrl": "https://lh5.googleusercontent.com/proxy/Ceu228szcHDvnxfwI-tbQ4mHfJuaENPflXdx7YszbQ9bL5nha21EtdVy141yQ-OnNu8p3X7cerrpnI3lv6ZZl_oEyCX1pQPw",
+    "Categories": [ "New" ],
+    "Genres": "Fantasy Adventure"
+  },
+  {
+    "Id": 9,
+    "Title": "Godzilla x Kong: The New Empire",
+    "Description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BY2QwOGE2NGQtMWQwNi00M2IzLThlNWItYWMzNGQ5YWNiZDA4XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Action Sci-Fi"
+  },
+  {
+    "Id": 10,
+    "Title": "Deadpool and Wolverine",
+    "Description": "Deadpool is offered a place in the Marvel Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Action Comedy"
+  },
+  {
+    "Id": 11,
+    "Title": "Never Let Go",
+    "Description": "A family that has been haunted by an evil spirit for years. Their safety come into question when one of the children questions if the evil is real.",
+    "ImageUrl": "https://resizing.flixster.com/6tN0EV8bpLlniaruV4B66EhWypw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NmN2EyZGIzLWM4OTEtNDE5ZS04Yzk2LTdhOTJhZGQyY2U1Ni5qcGc=",
+    "Categories": [ "New" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 12,
+    "Title": "Venom: The Last Dance",
+    "Description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "New" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 13,
+    "Title": "Killers of the Flower Moon",
+    "Description": "Crime epic, focusing on the murders of Osage members after oil was discovered on their land.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/Killers_of_the_Flower_Moon_film_poster.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Drama Crime History"
+  },
+  {
+    "Id": 14,
+    "Title": "Napoleon",
+    "Description": "This film chronicles the rise and fall of French Emperor Napoleon Bonaparte and his empire.",
+    "ImageUrl": "https://www.destination-napoleon.eu/wp-content/uploads/2023/11/Poster-N-scaled.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "History Drama Biography"
+  },
+  {
+    "Id": 15,
+    "Title": "Mission: Impossible – Dead Reckoning Part One",
+    "Description": "The latest in the \"Mission: Impossible\" series.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/91dYe4m4XXL.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Action Adventure Thriller"
+  },
+  {
+    "Id": 16,
+    "Title": "Dungeons & Dragons: Honor Among Thieves",
+    "Description": "A fun fantasy adventure featuring a group of unlikely heroes.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/81+5QumsDHL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Fantasy Adventure"
+  },
+  {
+    "Id": 17,
+    "Title": "Spaceman",
+    "Description": "Half a year into his solo mission on the edge of the solar system, an astronaut concerned with the state of his life back on Earth.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNGY0NDk5YjYtMTI0Zi00ZDc4LTk3NzEtYmUyNDNlN2U1ZmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Sci-Fi Drama"
+  },
+  {
+    "Id": 18,
+    "Title": "Nowhere",
+    "Description": "A young pregnant woman named Mia escapes from a country at war by hiding in a maritime container aboard a cargo ship.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZmQwODM5NTctYzRkMi00MmIwLWFjODAtMTFiMWY2OWE3MGQyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Drama Thriller"
+  },
+  {
+    "Id": 19,
+    "Title": "Ghostbusters: Frozen Empire",
+    "Description": "Unleashed evil force, Ghostbusters new and old must join forces to protect their home.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/61uoOT2ptjL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Comedy Fantasy"
+  },
+  {
+    "Id": 20,
+    "Title": "Road House",
+    "Description": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODVkYjlkM2UtNWVlMS00N2U1LTgxOTYtODlmNmE1YTgzMjczXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 21,
+    "Title": "The Watchers",
+    "Description": "A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/hcs531VRASrBxcRR8cRbuuCXnZj.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 22,
+    "Title": "The Fall Guy",
+    "Description": "A stuntman has to track down a missing movie star, solve a conspiracy, and try to win back the love of his life.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/710hC9X63eL.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Action Drama"
+  },
+  {
+    "Id": 23,
+    "Title": "Kingdom of the Planet of the Apes",
+    "Description": "A young ape goes on a journey that will lead him to question everything.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/81PqziEQvBL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Popular" ],
+    "Genres": "Adventure Sci-Fi"
+  },
+  {
+    "Id": 24,
+    "Title": "Aquaman and the Lost Kingdom",
+    "Description": "To defend Atlantis, Aquaman forges an alliance with his imprisoned brother.",
+    "ImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF0NoQyOCf3rsz6Nvb-zxmffTdsWnLDpnViQ&s",
+    "Categories": [ "Popular" ],
+    "Genres": "Action Fantasy"
+  },
+  {
+    "Id": 25,
+    "Title": "A Quiet Place: Day One",
+    "Description": "As New York City is invaded by aliens, a woman named Sammy fights to survive.",
+    "ImageUrl": "https://myhotposters.com/cdn/shop/files/mL7213_1024x1024.jpg?v=1716942834",
+    "Categories": [ "Recommended" ],
+    "Genres": "Horror Sci-Fi Thriller"
+  },
+  {
+    "Id": 26,
+    "Title": "Slingshot",
+    "Description": "An astronaut struggles to maintain his grip on reality aboard a possibly fatally compromised spacecraft.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMWQyZGNlODctNGFkOC00NzNlLTk1YTItZDgzMDc1OGZiMjlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Sci-Fi Thriller"
+  },
+  {
+    "Id": 27,
+    "Title": "BlackBerry",
+    "Description": "This film tells the story of the rise and fall of the BlackBerry smartphone, blending sharp humor with a smart narrative.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYzEzZDM5NWEtODgzNC00MTE5LWFhZTYtMGE2YTkxMzFiZWIyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Biography Drama"
+  },
+  {
+    "Id": 28,
+    "Title": "Hit Man",
+    "Description": "This film is based on the true story of a college professor who works as a fake assassin for sting operations.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/v4JeCJiyLqu9JRs4HoBJB6nTpm8.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 29,
+    "Title": "Smile 2",
+    "Description": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 30,
+    "Title": "The Ballad of Songbirds & Snakes",
+    "Description": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Adventure Sci-Fi"
+  },
+  {
+    "Id": 31,
+    "Title": "Alien: Romulus",
+    "Description": "While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Horror Sci-Fi"
+  },
+  {
+    "Id": 32,
+    "Title": "Uglies",
+    "Description": "In a dystopian world, a compulsory operation wipes out physical differences and makes everyone 'pretty'.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOGEyYmQxNjQtNDlkYy00MDlkLTgyNDUtZDA0NGY3ZTNlZWU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Sci-Fi Drama"
+  },
+  {
+    "Id": 33,
+    "Title": "Beetlejuice",
+    "Description": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Comedy Fantasy"
+  },
+  {
+    "Id": 34,
+    "Title": "Megalopolis",
+    "Description": "The city of New Rome is the center of conflict between Cesar Catilina, a brilliant artist in favor of a utopian future, and the greedy mayor Franklyn Cicero.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Sci-Fi Drama"
+  },
+  {
+    "Id": 35,
+    "Title": "Twisters",
+    "Description": "Kate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
+    "ImageUrl": "https://yc.cldmlk.com/ghekpzjg4tvm7fgbanhmyf69vm/uploads/vertical_e957f532-06b4-453e-a336-723f1cdfbe07.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Action Drama"
+  },
+  {
+    "Id": 36,
+    "Title": "Sector 36",
+    "Description": "A determined police officer must face off with a cunning serial killer as a chilling investigation unfolds, revealing dark secrets.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Recommended" ],
+    "Genres": "Crime Thriller"
+  },
+  {
+    "Id": 37,
+    "Title": "Oppenheimer",
+    "Description": "A biographical drama about J. Robert Oppenheimer, the theoretical physicist known as the 'father of the atomic bomb' for his role in the Manhattan Project during World War II.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Biography Drama History"
+  },
+  {
+    "Id": 38,
+    "Title": "Barbie",
+    "Description": "A live-action film based on the popular Barbie toy line, exploring themes of identity and self-discovery as Barbie navigates the real world.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/u5kboZR4OMi4QdbOhawCZuzMVWJ.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Comedy Fantasy"
+  },
+  {
+    "Id": 39,
+    "Title": "Spider-Man: Across the Spider-Verse",
+    "Description": "Miles Morales returns for the next chapter of the Spider-Verse saga, an animated adventure that explores multiple dimensions and introduces new Spider-heroes.",
+    "ImageUrl": "https://www.movieposters.com/cdn/shop/files/spiderman_across_the_spiderverse_ver36_xlg_600x.jpg?v=1690298757",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure Animation"
+  },
+  {
+    "Id": 40,
+    "Title": "Tenet",
+    "Description": "A sci-fi action thriller where a secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0ZjZlYTUtYzIwMC00ZmQzLWEwZTAtZWFhMWIwYjMxY2I3XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Thriller Sci-Fi"
+  },
+  {
+    "Id": 41,
+    "Title": "Joker",
+    "Description": "A gritty character study of Arthur Fleck, a man disregarded by society who transforms into the infamous Joker.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama Crime Thriller"
+  },
+  {
+    "Id": 42,
+    "Title": "Dune",
+    "Description": "A young nobleman named Paul Atreides embarks on a journey to the most dangerous planet in the universe to ensure the future of his family and people.",
+    "ImageUrl": "https://bananaroad.com/cdn/shop/products/pst1787_Dune_2021_Movie_Poster_grande.jpg?v=1663818374",
+    "Categories": [ "Discover" ],
+    "Genres": "Sci-Fi Adventure"
+  },
+  {
+    "Id": 43,
+    "Title": "Black Widow",
+    "Description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 44,
+    "Title": "No Time to Die",
+    "Description": "James Bond has left active service, but his peace is short-lived when an old friend from the CIA turns up asking for help.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 45,
+    "Title": "The Batman",
+    "Description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Crime Thriller"
+  },
+  {
+    "Id": 46,
+    "Title": "Top Gun: Maverick",
+    "Description": "After more than thirty years of service as one of the Navy's top aviators, Pete 'Maverick' Mitchell is back to confront the ghosts of his past.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71BokibfVUL.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Drama"
+  },
+  {
+    "Id": 47,
+    "Title": "Avatar: The Way of Water",
+    "Description": "Jake Sully and Neytiri have formed a family and are doing everything to stay together, but they must leave their home and explore the regions of Pandora.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71Lvqoov42L._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Sci-Fi Adventure Action"
+  },
+  {
+    "Id": 48,
+    "Title": "Doctor Strange in the Multiverse of Madness",
+    "Description": "Dr. Stephen Strange casts a forbidden spell that opens the doorway to the multiverse, including alternate versions of himself.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Fantasy Adventure"
+  },
+  {
+    "Id": 49,
+    "Title": "The Suicide Squad",
+    "Description": "A group of cons are sent on a dangerous mission to destroy a Nazi-era prison and laboratory.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 50,
+    "Title": "Shang-Chi and the Legend of the Ten Rings",
+    "Description": "Shang-Chi confronts the past he thought he left behind when he's drawn into the web of the mysterious Ten Rings organization.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Fantasy Adventure"
+  },
+  {
+    "Id": 51,
+    "Title": "Jungle Cruise",
+    "Description": "Based on Disneyland's theme park ride, a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 52,
+    "Title": "The Matrix Resurrections",
+    "Description": "Return to a world of two realities: one, everyday life; the other, what lies behind it.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Sci-Fi Action"
+  },
+  {
+    "Id": 53,
+    "Title": "Nope",
+    "Description": "Residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 54,
+    "Title": "Black Panther: Wakanda Forever",
+    "Description": "The leaders of Wakanda fight to protect their nation from intervening world powers in the wake of King T'Challa's death.",
+    "ImageUrl": "https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure Fantasy"
+  },
+  {
+    "Id": 55,
+    "Title": "Glass Onion: A Knives Out Mystery",
+    "Description": "Detective Benoit Blanc travels to Greece to peel back the layers of a mystery involving a new cast of suspects.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Glass_Onion_poster.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Mystery Comedy"
+  },
+  {
+    "Id": 56,
+    "Title": "John Wick: Chapter 4",
+    "Description": "John Wick uncovers a path to defeating the High Table, but before he can earn his freedom, a new enemy arises.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/81fk-N7tvbL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 57,
+    "Title": "Guardians of the Galaxy Vol. 3",
+    "Description": "The Guardians embark on a mission to protect one of their own that could lead to the end of the team.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Sci-Fi"
+  },
+  {
+    "Id": 58,
+    "Title": "The Super Mario Bros. Movie",
+    "Description": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/91zqGNzwk5L.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Animation Adventure Comedy"
+  },
+  {
+    "Id": 59,
+    "Title": "Fast X",
+    "Description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+    "ImageUrl": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/fast-x-et00122562-1687423131.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 60,
+    "Title": "Thor: Love and Thunder",
+    "Description": "Thor enlists the help of Valkyrie, Korg, and ex-girlfriend Jane Foster to fight Gorr the God Butcher.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Fantasy Adventure"
+  },
+  {
+    "Id": 61,
+    "Title": "Minari",
+    "Description": "A Korean-American family moves to an Arkansas farm in search of their own American Dream.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNWVmNDE3YzMtZWQ3Ny00YjhkLWEzN2QtZjNhYWNlMGI2N2NkXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 62,
+    "Title": "Nomadland",
+    "Description": "Following the economic collapse of a town in rural Nevada, a woman embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/612to4lsIBS._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 63,
+    "Title": "Spider-Man: No Way Home",
+    "Description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, leading to a spell that goes terribly wrong.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 64,
+    "Title": "Everything Everywhere All at Once",
+    "Description": "An aging Chinese immigrant is swept up in an adventure where she alone can save the world by connecting with parallel universe versions of herself.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Comedy Fantasy"
+  },
+  {
+    "Id": 65,
+    "Title": "Elvis",
+    "Description": "A biographical musical drama that explores the life and music of Elvis Presley, seen through the lens of his complicated relationship with his manager, Colonel Tom Parker.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama Biography"
+  },
+  {
+    "Id": 66,
+    "Title": "Promising Young Woman",
+    "Description": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who cross her path.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/Promising_Young_Woman_poster.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Thriller Drama"
+  },
+  {
+    "Id": 67,
+    "Title": "The Trial of the Chicago 7",
+    "Description": "Based on the infamous 1969 trial of seven defendants charged by the federal government with conspiracy and more.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYTQwYzMxZjItYTI1My00ZGQ4LTljNTctZjA5NTZiNDIyNjM5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama History"
+  },
+  {
+    "Id": 68,
+    "Title": "The French Dispatch",
+    "Description": "A love letter to journalists set in an outpost of an American newspaper in a fictional 20th-century French city.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71nWfxOlCTL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Comedy Drama"
+  },
+  {
+    "Id": 69,
+    "Title": "The King's Man",
+    "Description": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNjY3YTY3MGMtMjVmYS00ZmM3LWIxMDAtYWVhZTAyZDMwNmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 70,
+    "Title": "Eternals",
+    "Description": "A race of immortal beings with superhuman powers who have secretly lived on Earth for thousands of years reunite to battle the Deviants.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure Fantasy"
+  },
+  {
+    "Id": 71,
+    "Title": "The Father",
+    "Description": "An aging man struggles with memory loss and begins to doubt his loved ones, his own mind, and even reality itself.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/rXXgQUwdwTmOapIeoMojzU5cPng.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 72,
+    "Title": "Don't Look Up",
+    "Description": "Two astronomers go on a media tour to warn mankind of a planet-killing comet hurtling toward Earth.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Comedy Sci-Fi Drama"
+  },
+  {
+    "Id": 73,
+    "Title": "The Abyss of Time",
+    "Description": "A group of explorers venture into an ancient, submerged city and uncover secrets that bend their understanding of time and reality.",
+    "ImageUrl": "https://i.ebayimg.com/images/g/-8AAAOSw2C1lceCK/s-l1200.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Adventure Sci-Fi"
+  },
+  {
+    "Id": 74,
+    "Title": "The Marvels",
+    "Description": "Carol Danvers teams up with Monica Rambeau and Kamala Khan to protect the universe from a new cosmic threat.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/812jc7w+emL.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure Fantasy"
+  },
+  {
+    "Id": 75,
+    "Title": "The Creator",
+    "Description": "In a future war between humans and AI, a hardened ex-soldier is tasked with a mission to destroy an advanced AI that could end humanity.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Sci-Fi"
+  },
+  {
+    "Id": 76,
+    "Title": "The Flash",
+    "Description": "Barry Allen uses his super speed to travel back in time to change the past, but his actions lead to unintended consequences.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 77,
+    "Title": "Blue Beetle",
+    "Description": "A young man becomes the superhero Blue Beetle after a mysterious scarab binds to him and grants him powers.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTEyYzQzOTMtMWExNi00OWNjLTgwMDUtNzY0YjhmZDBiMTk2XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 78,
+    "Title": "Transformers: Rise of the Beasts",
+    "Description": "The Autobots team up with a new faction of Transformers known as the Maximals to battle a common enemy.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/711MPxWXaSL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Adventure Sci-Fi"
+  },
+  {
+    "Id": 79,
+    "Title": "Indiana Jones and the Dial of Destiny",
+    "Description": "Indiana Jones is back on a new adventure, this time searching for a mythical dial that can control time.",
+    "ImageUrl": "https://i.ebayimg.com/images/g/RmsAAOSwpaVkgPYj/s-l1200.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Adventure Action"
+  },
+  {
+    "Id": 80,
+    "Title": "The Equalizer 3",
+    "Description": "Robert McCall finds himself in Southern Italy, protecting a local community from violent crime syndicates.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYTM1OTAyYmQtY2ZiZS00NTRlLWEyZDYtZWMyYjMyOTE2YWE4XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Thriller"
+  },
+  {
+    "Id": 81,
+    "Title": "A Haunting in Venice",
+    "Description": "Detective Hercule Poirot investigates a supernatural murder mystery in post-war Venice.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTgwODdhZTMtYTFiNy00NzI1LTkwZWEtNjI2NWZiMzFmMjJlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Mystery Thriller"
+  },
+  {
+    "Id": 82,
+    "Title": "Ghostbusters: Afterlife",
+    "Description": "A family discovers their connection to the original Ghostbusters and must stop a new ghostly threat from taking over the town.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/61kmSdpwl8L._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Comedy Fantasy Sci-Fi"
+  },
+  {
+    "Id": 83,
+    "Title": "Shazam! Fury of the Gods",
+    "Description": "Teenager Billy Batson transforms into the adult superhero Shazam and faces off against the powerful daughters of Atlas.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjdlYzAwYTMtMWJlOC00OTQ5LWJhMmYtMDhjNGY4M2RhMGU4XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Action Comedy Fantasy"
+  },
+  {
+    "Id": 84,
+    "Title": "The Nun II",
+    "Description": "Sister Irene once again comes face to face with the demon nun Valak in a terrifying new chapter.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BY2YxYmEyYmUtOWRkMi00NDU3LTk0NGMtOTA5MzliMDg3NDQ0XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Horror Thriller"
+  },
+  {
+    "Id": 85,
+    "Title": "The Killer",
+    "Description": "A solitary assassin meticulously plans his next mission while grappling with his own emotional turmoil.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Discover" ],
+    "Genres": "Crime Thriller"
+  },
+  {
+    "Id": 86,
+    "Title": "Gone with the Wind",
+    "Description": "A Southern belle's life during and after the American Civil War is chronicled in this epic drama.",
+    "ImageUrl": "https://filmartgallery.com/cdn/shop/files/Gone-With-the-Wind-Vintage-Movie-Poster-Original-1-Sheet-27x41_eff639ea-5748-4987-858d-1d337b7a2eaf_240x.jpg?v=1707188788",
+    "Categories": [ "MustWatch" ],
+    "Genres": "Drama History Romance"
+  },
+  {
+    "Id": 87,
+    "Title": "The Wizard of Oz",
+    "Description": "A young girl from Kansas is swept away to a magical land where she must find her way back home.",
+    "ImageUrl": "https://cdn.posteritati.com/posters/000/000/028/793/the-wizard-of-oz-md-web.jpg",
+    "Categories": [ "MustWatch" ],
+    "Genres": "Fantasy Adventure Family"
+  },
+  {
+    "Id": 88,
+    "Title": "The Sound of Music",
+    "Description": "A young governess brings joy and music into the lives of an Austrian family during World War II.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71j5kC95RSL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "MustWatch" ],
+    "Genres": "Musical Drama Family"
+  },
+  {
+    "Id": 89,
+    "Title": "In Time",
+    "Description": "In a future where time is literally money, a man fights to survive and change the system.",
+    "ImageUrl": "https://i.ebayimg.com/images/g/1zgAAOSwGJlZEW0~/s-l1200.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Sci-Fi Action Thriller"
+  },
+  {
+    "Id": 90,
+    "Title": "Shutter Island",
+    "Description": "A U.S. Marshal investigates the disappearance of a patient from a hospital for the criminally insane.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Mystery Thriller Drama"
+  },
+  {
+    "Id": 91,
+    "Title": "The Wolf of Wall Street",
+    "Description": "The story of a stockbroker who rises to wealth through corruption and fraud, living a life of excess.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Drama Comedy Crime"
+  },
+  {
+    "Id": 92,
+    "Title": "Seven",
+    "Description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BN2U5ZDE4OTgtYzY4ZC00MWFhLTg2ZjUtNDQ2ZGE0MDUyNmVkXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Mystery Crime Thriller"
+  },
+  {
+    "Id": 93,
+    "Title": "Prisoners",
+    "Description": "A desperate father takes matters into his own hands when his daughter and her friend go missing.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Mystery Drama Thriller"
+  },
+  {
+    "Id": 94,
+    "Title": "Gladiator",
+    "Description": "A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Action Drama History"
+  },
+  {
+    "Id": 95,
+    "Title": "Armageddon",
+    "Description": "A team of deep-core drillers is sent by NASA to stop a massive asteroid on a collision course with Earth.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/51-mFrFH+bL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Action Sci-Fi Adventure"
+  },
+  {
+    "Id": 96,
+    "Title": "Identity",
+    "Description": "Strangers stranded at a desolate Nevada motel realize they are being targeted by a killer.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZTg1YWUyODktMWY5MC00ZjliLTg3YmUtZDliMGZhZDZmMzU5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Mystery Thriller Horror"
+  },
+  {
+    "Id": 97,
+    "Title": "Enemy at the Gates",
+    "Description": "Two snipers engage in a deadly game of cat and mouse during the Battle of Stalingrad.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "War Drama Action"
+  },
+  {
+    "Id": 98,
+    "Title": "Zodiac",
+    "Description": "A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac killer.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Mystery Thriller Drama"
+  },
+  {
+    "Id": 99,
+    "Title": "The Last Castle",
+    "Description": "A former general imprisoned for disobeying orders leads a revolt within a maximum-security military prison.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTk0MzUxNGQtYTg2MC00OTJmLWE5YTAtMzI4NzlhZGFjNTBmXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Action Drama Thriller"
+  },
+  {
+    "Id": 100,
+    "Title": "Inception",
+    "Description": "A thief who enters the dreams of others must pull off the ultimate heist by planting an idea in a target's mind.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "Categories": [ "CreatorPick" ],
+    "Genres": "Sci-Fi Action Adventure"
+  },
+  {
+    "Id": 101,
+    "Title": "The Shawshank Redemption",
+    "Description": "Two imprisoned men bond over years, finding solace and eventual redemption through acts of common decency.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 102,
+    "Title": "The Godfather",
+    "Description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 103,
+    "Title": "The Dark Knight",
+    "Description": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham, but he soon finds himself prey to a reign of chaos unleashed by a rising criminal mastermind known as the Joker.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Crime Drama"
+  },
+  {
+    "Id": 104,
+    "Title": "The Godfather: Part II",
+    "Description": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son expands and tightens his grip on the family crime syndicate.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNzc1OWY5MjktZDllMi00ZDEzLWEwMGItYjk1YmRhYjBjNTVlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 105,
+    "Title": "12 Angry Men",
+    "Description": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as clear-cut as it seemed in court.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 106,
+    "Title": "Schindler's List",
+    "Description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Drama History"
+  },
+  {
+    "Id": 107,
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Fantasy Action"
+  },
+  {
+    "Id": 108,
+    "Title": "Pulp Fiction",
+    "Description": "The lives of two mob hitmen, a boxer, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 109,
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Fantasy Action"
+  },
+  {
+    "Id": 110,
+    "Title": "The Good, the Bad and the Ugly",
+    "Description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Western"
+  },
+  {
+    "Id": 111,
+    "Title": "Forrest Gump",
+    "Description": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold through the perspective of an Alabama man with a low IQ.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Romance"
+  },
+  {
+    "Id": 112,
+    "Title": "Fight Club",
+    "Description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much more.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 113,
+    "Title": "Inception",
+    "Description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into a CEO's mind.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Sci-Fi Thriller"
+  },
+  {
+    "Id": 114,
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Description": "After the Rebels are overpowered by the Empire on their new base, Luke Skywalker begins Jedi training with Yoda.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure Sci-Fi"
+  },
+  {
+    "Id": 115,
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Description": "While Frodo and Sam edge closer to Mordor with the help of Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Fantasy Action"
+  },
+  {
+    "Id": 116,
+    "Title": "The Matrix",
+    "Description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Sci-Fi"
+  },
+  {
+    "Id": 117,
+    "Title": "Goodfellas",
+    "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife and his partners.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 118,
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 119,
+    "Title": "Seven Samurai",
+    "Description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZDg4MTYyYjktZGJiYy00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Drama"
+  },
+  {
+    "Id": 120,
+    "Title": "Se7en",
+    "Description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Mystery"
+  },
+  {
+    "Id": 121,
+    "Title": "It's a Wonderful Life",
+    "Description": "An angel is sent from Heaven to show a frustrated businessman what life would have been like if he never existed.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/71f2ACnahnL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Drama Family Fantasy"
+  },
+  {
+    "Id": 122,
+    "Title": "The Silence of the Lambs",
+    "Description": "A young FBI cadet seeks the help of an imprisoned and manipulative cannibal killer to catch another serial killer.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Thriller"
+  },
+  {
+    "Id": 123,
+    "Title": "City of God",
+    "Description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 124,
+    "Title": "Saving Private Ryan",
+    "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama War"
+  },
+  {
+    "Id": 125,
+    "Title": "Life Is Beautiful",
+    "Description": "A Jewish man uses humor to shield his son from the horrors of a Nazi concentration camp.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama Romance"
+  },
+  {
+    "Id": 126,
+    "Title": "Interstellar",
+    "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Drama Sci-Fi"
+  },
+  {
+    "Id": 127,
+    "Title": "The Green Mile",
+    "Description": "The lives of guards on Death Row are affected by one of their charges: a man accused of child murder and rape, yet who has a mysterious gift.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Fantasy"
+  },
+  {
+    "Id": 128,
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, and two droids to save the galaxy from the Empire's world-destroying battle station.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure Sci-Fi"
+  },
+  {
+    "Id": 129,
+    "Title": "Terminator 2: Judgment Day",
+    "Description": "A cyborg, identical to the one who failed to kill Sarah Connor, must protect her teenage son from a more advanced and powerful cyborg.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/weVXMD5QBGeQil4HEATZqAkXeEc.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Sci-Fi"
+  },
+  {
+    "Id": 130,
+    "Title": "Back to the Future",
+    "Description": "Marty McFly, a 17-year-old, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Comedy Sci-Fi"
+  },
+  {
+    "Id": 131,
+    "Title": "Spirited Away",
+    "Description": "During her family's move to the suburbs, a sullen 10-year-old wanders into a world ruled by gods, witches, and spirits.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Animation Adventure Family"
+  },
+  {
+    "Id": 132,
+    "Title": "Psycho",
+    "Description": "A secretary embezzles $40,000 from her employer's client and checks into a remote motel run by a young man under his mother's domination.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Horror Mystery Thriller"
+  },
+  {
+    "Id": 133,
+    "Title": "The Pianist",
+    "Description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto during World War II.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Biography Drama Music"
+  },
+  {
+    "Id": 134,
+    "Title": "Parasite",
+    "Description": "A poor family schemes to become employed by a wealthy family by infiltrating their household and posing as unrelated, highly qualified individuals.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama Thriller"
+  },
+  {
+    "Id": 135,
+    "Title": "Léon: The Professional",
+    "Description": "A professional assassin reluctantly takes in a 12-year-old girl after her family is murdered.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/61P-HNp5QsL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Crime Drama"
+  },
+  {
+    "Id": 136,
+    "Title": "The Lion King",
+    "Description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Animation Adventure Drama"
+  },
+  {
+    "Id": 137,
+    "Title": "Gladiator",
+    "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure Drama"
+  },
+  {
+    "Id": 138,
+    "Title": "American History X",
+    "Description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 139,
+    "Title": "The Usual Suspects",
+    "Description": "A sole survivor tells of the twists and turns leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Mystery"
+  },
+  {
+    "Id": 140,
+    "Title": "The Departed",
+    "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/jyAgiqVSx5fl0NNj7WoGGKweXrL.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Thriller"
+  },
+  {
+    "Id": 141,
+    "Title": "The Prestige",
+    "Description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Mystery Sci-Fi"
+  },
+  {
+    "Id": 142,
+    "Title": "Casablanca",
+    "Description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape French Morocco.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Drama Romance War"
+  },
+  {
+    "Id": 143,
+    "Title": "Whiplash",
+    "Description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/717mDobaqbL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Music"
+  },
+  {
+    "Id": 144,
+    "Title": "The Intouchables",
+    "Description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Biography Comedy Drama"
+  },
+  {
+    "Id": 145,
+    "Title": "Modern Times",
+    "Description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "ImageUrl": "https://i.pinimg.com/originals/e2/2f/07/e22f076e1919b5115b1e88ce2edee2e2.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama Romance"
+  },
+  {
+    "Id": 146,
+    "Title": "Once Upon a Time in the West",
+    "Description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a widow from a ruthless assassin.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/3RymloPYcEPx30T1vTrz2cXaVnh.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Western"
+  },
+  {
+    "Id": 147,
+    "Title": "Rear Window",
+    "Description": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Mystery Thriller"
+  },
+  {
+    "Id": 148,
+    "Title": "Alien",
+    "Description": "After a space merchant vessel receives an unknown transmission, one of the crew is attacked by a mysterious life form.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Horror Sci-Fi"
+  },
+  {
+    "Id": 149,
+    "Title": "City Lights",
+    "Description": "With the aid of a wealthy erratic tippler, a destitute man sets out to help a blind flower girl he has fallen in love with.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama Romance"
+  },
+  {
+    "Id": 150,
+    "Title": "Apocalypse Now",
+    "Description": "A U.S. Army officer is sent on a mission to assassinate a renegade Special Forces colonel in Cambodia during the Vietnam War.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama War"
+  },
+  {
+    "Id": 151,
+    "Title": "Memento",
+    "Description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYmQ3MjliNjAtNWFiZS00YWI1LTlmZTktMzBiNDE1NjRhZjU0XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Mystery Thriller"
+  },
+  {
+    "Id": 152,
+    "Title": "Django Unchained",
+    "Description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Western"
+  },
+  {
+    "Id": 153,
+    "Title": "Raiders of the Lost Ark",
+    "Description": "In 1936, archaeologist Indiana Jones races against Nazis to find the Ark of the Covenant.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure"
+  },
+  {
+    "Id": 154,
+    "Title": "WALL·E",
+    "Description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will decide the fate of mankind.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Animation Adventure Family"
+  },
+  {
+    "Id": 155,
+    "Title": "The Shining",
+    "Description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Horror"
+  },
+  {
+    "Id": 156,
+    "Title": "The Lives of Others",
+    "Description": "In 1984 East Berlin, an agent of the secret police becomes disillusioned with his job after monitoring a writer and his lover.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Thriller"
+  },
+  {
+    "Id": 157,
+    "Title": "Paths of Glory",
+    "Description": "After refusing to attack an enemy position, a general accuses soldiers of cowardice and their commanding officer must defend them.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama War"
+  },
+  {
+    "Id": 158,
+    "Title": "Avengers: Infinity War",
+    "Description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure Sci-Fi"
+  },
+  {
+    "Id": 159,
+    "Title": "Sunset Blvd.",
+    "Description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Film-Noir"
+  },
+  {
+    "Id": 160,
+    "Title": "The Great Dictator",
+    "Description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama War"
+  },
+  {
+    "Id": 161,
+    "Title": "Witness for the Prosecution",
+    "Description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Mystery"
+  },
+  {
+    "Id": 162,
+    "Title": "Aliens",
+    "Description": "Ellen Ripley is rescued decades after surviving an apocalyptic attack on her ship, and she must fight a terrifying alien species once more.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/91kkGWtyqTL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Adventure Sci-Fi"
+  },
+  {
+    "Id": 163,
+    "Title": "American Beauty",
+    "Description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's friend.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 164,
+    "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Description": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy War"
+  },
+  {
+    "Id": 165,
+    "Title": "The Dark Knight Rises",
+    "Description": "Eight years after the Joker's reign, Batman encounters the mysterious Selina Kyle and the ruthless Bane.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Crime Drama"
+  },
+  {
+    "Id": 166,
+    "Title": "Oldboy",
+    "Description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Action Drama Mystery"
+  },
+  {
+    "Id": 167,
+    "Title": "Once Upon a Time in America",
+    "Description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan, where he once again must confront the ghosts of his old life.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 168,
+    "Title": "Das Boot",
+    "Description": "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+    "ImageUrl": "https://i.ebayimg.com/images/g/2VUAAOSwV2Nf3NGF/s-l1200.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama War"
+  },
+  {
+    "Id": 169,
+    "Title": "Joker",
+    "Description": "In Gotham City, a mentally troubled comedian embarks on a downward spiral of social revolution and bloody crime.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Thriller"
+  },
+  {
+    "Id": 170,
+    "Title": "Citizen Kane",
+    "Description": "Following the death of a publishing tycoon, reporters scramble to uncover the meaning of his final utterance.",
+    "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/511px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Drama Mystery"
+  },
+  {
+    "Id": 171,
+    "Title": "Braveheart",
+    "Description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Biography Drama History"
+  },
+  {
+    "Id": 172,
+    "Title": "Vertigo",
+    "Description": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Mystery Romance Thriller"
+  },
+  {
+    "Id": 173,
+    "Title": "North by Northwest",
+    "Description": "A New York City advertising executive goes on the run after being mistaken for a government agent by foreign spies.",
+    "ImageUrl": "https://i.ebayimg.com/images/g/pDYAAMXQ1PNRdToA/s-l400.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Mystery Thriller"
+  },
+  {
+    "Id": 174,
+    "Title": "Reservoir Dogs",
+    "Description": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "ImageUrl": "https://m.media-amazon.com/images/I/512zetpdQjL._AC_UF894,1000_QL80_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Thriller"
+  },
+  {
+    "Id": 175,
+    "Title": "Requiem for a Dream",
+    "Description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 176,
+    "Title": "Amélie",
+    "Description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and discovers love along the way.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Romance"
+  },
+  {
+    "Id": 177,
+    "Title": "M",
+    "Description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_FMjpg_UX1000_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Mystery Thriller"
+  },
+  {
+    "Id": 178,
+    "Title": "Taare Zameen Par",
+    "Description": "An eight-year-old boy is thought to be a lazy trouble-maker until a new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Family"
+  },
+  {
+    "Id": 179,
+    "Title": "A Clockwork Orange",
+    "Description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Sci-Fi"
+  },
+  {
+    "Id": 180,
+    "Title": "Lawrence of Arabia",
+    "Description": "The story of T.E. Lawrence, the English officer who successfully united and led diverse Arab tribes during World War I.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Adventure Biography Drama"
+  },
+  {
+    "Id": 181,
+    "Title": "Double Indemnity",
+    "Description": "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+    "ImageUrl": "https://cdn.posteritati.com/posters/000/000/061/662/double-indemnity-md-web.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Film-Noir"
+  },
+  {
+    "Id": 182,
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Romance Sci-Fi"
+  },
+  {
+    "Id": 183,
+    "Title": "Taxi Driver",
+    "Description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 184,
+    "Title": "Singin' in the Rain",
+    "Description": "A silent film production company and cast make a difficult transition to sound.",
+    "ImageUrl": "https://image.tmdb.org/t/p/original/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+    "Categories": [ "MustWatch", "Top100" ],
+    "Genres": "Comedy Musical Romance"
+  },
+  {
+    "Id": 185,
+    "Title": "Toy Story 3",
+    "Description": "The toys are mistakenly delivered to a daycare center instead of the attic before Andy leaves for college.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Animation Adventure Comedy"
+  },
+  {
+    "Id": 186,
+    "Title": "Amadeus",
+    "Description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the composer who was envious of Mozart's talent.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Biography Drama Music"
+  },
+  {
+    "Id": 187,
+    "Title": "Inglourious Basterds",
+    "Description": "In Nazi-occupied France, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Drama War"
+  },
+  {
+    "Id": 188,
+    "Title": "3 Idiots",
+    "Description": "Two friends are searching for their long-lost companion. They revisit their college days and recall the memories of their friend who inspired them.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama"
+  },
+  {
+    "Id": 189,
+    "Title": "Full Metal Jacket",
+    "Description": "A pragmatic U.S. Marine observes the dehumanizing effects of the Vietnam War on his fellow recruits from boot camp to the bloody street fighting.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama War"
+  },
+  {
+    "Id": 190,
+    "Title": "The Sting",
+    "Description": "Two grifters team up to pull off the ultimate con.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Crime Drama"
+  },
+  {
+    "Id": 191,
+    "Title": "2001: A Space Odyssey",
+    "Description": "After discovering a mysterious artifact buried beneath the lunar surface, mankind sets off on a quest to find its origins.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Sci-Fi"
+  },
+  {
+    "Id": 192,
+    "Title": "Bicycle Thieves",
+    "Description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his job and family's survival.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  },
+  {
+    "Id": 193,
+    "Title": "Toy Story",
+    "Description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's room.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Animation Adventure Comedy"
+  },
+  {
+    "Id": 194,
+    "Title": "The Kid",
+    "Description": "The Tramp cares for an abandoned child, but events put their relationship in jeopardy.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Drama Family"
+  },
+  {
+    "Id": 195,
+    "Title": "Snatch",
+    "Description": "Unscrupulous boxing promoters, violent bookmakers, and amateur robbers converge around a priceless stolen diamond.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Comedy Crime"
+  },
+  {
+    "Id": 196,
+    "Title": "Monty Python and the Holy Grail",
+    "Description": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many silly obstacles.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BYWY4YmUzZmUtMzQ0ZS00N2Y2LWJlODQtN2IwMDc1MWQwMmU3XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Adventure Comedy Fantasy"
+  },
+  {
+    "Id": 197,
+    "Title": "Good Will Hunting",
+    "Description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics but needs help from a psychologist to find direction in his life.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama Romance"
+  },
+  {
+    "Id": 198,
+    "Title": "L.A. Confidential",
+    "Description": "As corruption grows in 1950s LA, three policemen investigate a series of murders with their own brand of justice.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama Mystery"
+  },
+  {
+    "Id": 199,
+    "Title": "Scarface",
+    "Description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel while succumbing to greed.",
+    "ImageUrl": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Crime Drama"
+  },
+  {
+    "Id": 200,
+    "Title": "The Hunt",
+    "Description": "A teacher's life is destroyed by a lie that spreads like wildfire in his small town.",
+    "ImageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0NzViOWMtNmIyZi00ZmUxLWFjMTgtZjYwOGNjNzYwZTk2XkEyXkFqcGc@._V1_.jpg",
+    "Categories": [ "Top100" ],
+    "Genres": "Drama"
+  }
+]
