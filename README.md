@@ -20,7 +20,7 @@ MovieTracker is a RESTful web API built with ASP.NET Core, designed to manage a 
 
 ## 🛠 Requirements
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - ASP.NET Core
 
 ## 📖 Setup Instructions
